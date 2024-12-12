@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Orchestrating the Symphony of Prompt Distribution Learning for Human-Object Interaction Detection**|Mingda Jia et.al.|[2412.08506v1](http://arxiv.org/abs/2412.08506v1)|null|
+|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460v1](http://arxiv.org/abs/2412.08460v1)|null|
+|**2024-12-11**|**GDSG: Graph Diffusion-based Solution Generation for Optimization Problems in MEC Networks**|Ruihuai Liang et.al.|[2412.08296v1](http://arxiv.org/abs/2412.08296v1)|**[link](https://github.com/qiyu3816/gdsg)**|
+|**2024-12-11**|**How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?**|Wenjun Ding et.al.|[2412.08282v1](http://arxiv.org/abs/2412.08282v1)|null|
+|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138v1](http://arxiv.org/abs/2412.08138v1)|null|
+|**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071v1](http://arxiv.org/abs/2412.08071v1)|null|
+|**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054v1](http://arxiv.org/abs/2412.08054v1)|null|
+|**2024-12-11**|**dsLassoCov: a federated machine learning approach incorporating covariate control**|Han Cao et.al.|[2412.07991v1](http://arxiv.org/abs/2412.07991v1)|null|
+|**2024-12-10**|**Evaluating the Potential of Federated Learning for Maize Leaf Disease Prediction**|Thalita Mendonça Antico et.al.|[2412.07872v1](http://arxiv.org/abs/2412.07872v1)|null|
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687v1](http://arxiv.org/abs/2412.07687v1)|null|
 |**2024-12-10**|**Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**|Kichang Lee et.al.|[2412.07454v1](http://arxiv.org/abs/2412.07454v1)|null|
 |**2024-12-10**|**When UAV Meets Federated Learning: Latency Minimization via Joint Trajectory Design and Resource Allocation**|Xuhui Zhang et.al.|[2412.07428v1](http://arxiv.org/abs/2412.07428v1)|null|
