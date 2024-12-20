@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Robust Federated Learning in the Face of Covariate Shift: A Magnitude Pruning with Hybrid Regularization Framework for Enhanced Model Aggregation**|Ozgu Goksu et.al.|[2412.15010v1](http://arxiv.org/abs/2412.15010v1)|null|
+|**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832v1](http://arxiv.org/abs/2412.14832v1)|null|
+|**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768v1](http://arxiv.org/abs/2412.14768v1)|null|
+|**2024-12-19**|**LoLaFL: Low-Latency Federated Learning via Forward-only Propagation**|Jierui Zhang et.al.|[2412.14668v1](http://arxiv.org/abs/2412.14668v1)|null|
+|**2024-12-19**|**Summary of Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Kamorudeen A. Amuda et.al.|[2412.14545v1](http://arxiv.org/abs/2412.14545v1)|null|
+|**2024-12-19**|**FedMUP: Federated Learning driven Malicious User Prediction Model for Secure Data Distribution in Cloud Environments**|Kishu Gupta et.al.|[2412.14495v1](http://arxiv.org/abs/2412.14495v1)|null|
+|**2024-12-19**|**Promptable Representation Distribution Learning and Data Augmentation for Gigapixel Histopathology WSI Analysis**|Kunming Tang et.al.|[2412.14473v1](http://arxiv.org/abs/2412.14473v1)|**[link](https://github.com/lazytkm/prdl)**|
+|**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424v1](http://arxiv.org/abs/2412.14424v1)|null|
+|**2024-12-18**|**Covariances for Free: Exploiting Mean Distributions for Federated Learning with Pre-Trained Models**|Dipam Goswami et.al.|[2412.14326v1](http://arxiv.org/abs/2412.14326v1)|null|
 |**2024-12-18**|**On Calibration in Multi-Distribution Learning**|Rajeev Verma et.al.|[2412.14142v1](http://arxiv.org/abs/2412.14142v1)|null|
 |**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080v1](http://arxiv.org/abs/2412.14080v1)|null|
 |**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818v1](http://arxiv.org/abs/2412.13818v1)|null|
