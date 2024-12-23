@@ -2086,7 +2086,7 @@ layout: default
 |**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747v1](http://arxiv.org/abs/2406.04747v1)|null|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743v1](http://arxiv.org/abs/2406.04743v1)|null|
 |**2024-06-07**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596v1](http://arxiv.org/abs/2406.04596v1)|**[link](https://github.com/RenpuLiu/flute)**|
-|**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227v1](http://arxiv.org/abs/2406.04227v1)|null|
+|**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227v1](http://arxiv.org/abs/2406.04227v1)|**[link](https://github.com/tamertaras91/RR-CONV)**|
 |**2024-06-06**|**Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**|Xuhan Zuo et.al.|[2406.04076v1](http://arxiv.org/abs/2406.04076v1)|null|
 |**2024-06-05**|**Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**|Omar Alhussein et.al.|[2406.03630v1](http://arxiv.org/abs/2406.03630v1)|**[link](https://github.com/OmarSababha/active_ML_6G)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611v1](http://arxiv.org/abs/2406.03611v1)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
@@ -2786,7 +2786,7 @@ layout: default
 |**2024-01-05**|**Importance Matching Lemma for Lossy Compression with Side Information**|Buu Phan et.al.|[2401.02609v1](http://arxiv.org/abs/2401.02609v1)|null|
 |**2024-01-05**|**Federated Learning for distribution skewed data using sample weights**|Hung Nguyen et.al.|[2401.02586v1](http://arxiv.org/abs/2401.02586v1)|null|
 |**2024-01-04**|**Adaptive Differential Privacy in Federated Learning: A Priority-Based Approach**|Mahtab Talaei et.al.|[2401.02453v1](http://arxiv.org/abs/2401.02453v1)|null|
-|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329v1](http://arxiv.org/abs/2401.02329v1)|null|
+|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329v1](http://arxiv.org/abs/2401.02329v1)|**[link](https://github.com/krumpguo/fedvls)**|
 |**2024-01-04**|**Federated Class-Incremental Learning with Prototype Guided Transformer**|Haiyang Guo et.al.|[2401.02094v1](http://arxiv.org/abs/2401.02094v1)|**[link](https://github.com/ghy0501/pilora)**|
 |**2024-01-03**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923v1](http://arxiv.org/abs/2401.01923v1)|null|
 |**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531v1](http://arxiv.org/abs/2401.01531v1)|null|
@@ -3061,7 +3061,7 @@ layout: default
 |**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
 |**2023-11-06**|**Goal-Oriented Wireless Communication Resource Allocation for Cyber-Physical Systems**|Cheng Feng et.al.|[2311.02911v1](http://arxiv.org/abs/2311.02911v1)|null|
 |**2023-11-04**|**Hybrid quantum image classification and federated learning for hepatic steatosis diagnosis**|Luca Lusnig et.al.|[2311.02402v1](http://arxiv.org/abs/2311.02402v1)|null|
-|**2023-11-04**|**Sample Complexity of Opinion Formation on Networks**|Haolin Liu et.al.|[2311.02349v1](http://arxiv.org/abs/2311.02349v1)|null|
+|**2023-11-04**|**Sample Complexity of Opinion Formation on Networks**|Haolin Liu et.al.|[2311.02349v1](http://arxiv.org/abs/2311.02349v1)|**[link](https://github.com/liuhl2000/Sample-Complexity-of-Opinion-Formation-on-Networks)**|
 |**2023-11-03**|**Client Orchestration and Cost-Efficient Joint Optimization for NOMA-Enabled Hierarchical Federated Learning**|Bibo Wu et.al.|[2311.02130v1](http://arxiv.org/abs/2311.02130v1)|null|
 |**2023-11-03**|**Epidemic Decision-making System Based Federated Reinforcement Learning**|Yangxi Zhou et.al.|[2311.01749v1](http://arxiv.org/abs/2311.01749v1)|null|
 |**2023-11-03**|**Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces**|Aditya Desai et.al.|[2311.01722v1](http://arxiv.org/abs/2311.01722v1)|**[link](https://github.com/apd10/flcf)**|
@@ -3622,7 +3622,7 @@ layout: default
 |**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
 |**2023-06-23**|**Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering**|Tianyu Zhao et.al.|[2306.12859v2](http://arxiv.org/abs/2306.12859v2)|null|
 |**2023-06-25**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v2](http://arxiv.org/abs/2306.12625v2)|**[link](https://github.com/francescopase/federated-klms)**|
-|**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|null|
+|**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|**[link](https://github.com/xiaolangu/dp-brem)**|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400v1](http://arxiv.org/abs/2306.12400v1)|null|
 |**2023-06-23**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v2](http://arxiv.org/abs/2306.12212v2)|**[link](https://github.com/hiyuchang/mimic_codes)**|
 |**2023-06-24**|**Split Learning in 6G Edge Networks**|Zheng Lin et.al.|[2306.12194v2](http://arxiv.org/abs/2306.12194v2)|null|
