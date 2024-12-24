@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Sensitivity Curve Maximization: Attacking Robust Aggregators in Distributed Learning**|Christian A. Schroth et.al.|[2412.17740v1](http://arxiv.org/abs/2412.17740v1)|null|
+|**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723v1](http://arxiv.org/abs/2412.17723v1)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
+|**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692v1](http://arxiv.org/abs/2412.17692v1)|null|
+|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612v1](http://arxiv.org/abs/2412.17612v1)|null|
+|**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317v1](http://arxiv.org/abs/2412.17317v1)|null|
+|**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305v1](http://arxiv.org/abs/2412.17305v1)|null|
+|**2024-12-23**|**FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**|Qian Chen et.al.|[2412.17231v1](http://arxiv.org/abs/2412.17231v1)|null|
+|**2024-12-22**|**Data value estimation on private gradients**|Zijian Zhou et.al.|[2412.17008v1](http://arxiv.org/abs/2412.17008v1)|null|
+|**2024-12-22**|**FedCross: Intertemporal Federated Learning Under Evolutionary Games**|Jianfeng Lu et.al.|[2412.16968v1](http://arxiv.org/abs/2412.16968v1)|null|
+|**2024-12-21**|**Fed-ZOE: Communication-Efficient Over-the-Air Federated Learning via Zeroth-Order Estimation**|Jonggyu Jang et.al.|[2412.16779v1](http://arxiv.org/abs/2412.16779v1)|null|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|null|
 |**2024-12-20**|**Fair Distributed Machine Learning with Imbalanced Data as a Stackelberg Evolutionary Game**|Sebastian Niehaus et.al.|[2412.16079v1](http://arxiv.org/abs/2412.16079v1)|null|
 |**2024-12-20**|**Using matrix-product states for time-series machine learning**|Joshua B. Moore et.al.|[2412.15826v1](http://arxiv.org/abs/2412.15826v1)|**[link](https://github.com/jmoo2880/MPSTime.jl)**|
