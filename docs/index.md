@@ -1248,7 +1248,7 @@ layout: default
 |**2024-12-20**|**Using matrix-product states for time-series machine learning**|Joshua B. Moore et.al.|[2412.15826v1](http://arxiv.org/abs/2412.15826v1)|**[link](https://github.com/jmoo2880/MPSTime.jl)**|
 |**2024-12-20**|**fluke: Federated Learning Utility frameworK for Experimentation and research**|Mirko Polato et.al.|[2412.15728v1](http://arxiv.org/abs/2412.15728v1)|null|
 |**2024-12-20**|**Code Review Automation Via Multi-task Federated LLM -- An Empirical Study**|Jahnavi Kumar et.al.|[2412.15676v1](http://arxiv.org/abs/2412.15676v1)|null|
-|**2024-12-20**|**An adaptive approximate Bayesian computation MCMC with Global-Local proposals**|Xuefei Cao et.al.|[2412.15644v1](http://arxiv.org/abs/2412.15644v1)|null|
+|**2024-12-20**|**An adaptive approximate Bayesian computation MCMC with Global-Local proposals**|Xuefei Cao et.al.|[2412.15644v1](http://arxiv.org/abs/2412.15644v1)|**[link](https://github.com/caofff/gl-abc-mcmc)**|
 |**2024-12-20**|**AutoRank: MCDA Based Rank Personalization for LoRA-Enabled Distributed Learning**|Shuaijun Chen et.al.|[2412.15553v1](http://arxiv.org/abs/2412.15553v1)|null|
 |**2024-12-20**|**The Impact of Cut Layer Selection in Split Federated Learning**|Justin Dachille et.al.|[2412.15536v1](http://arxiv.org/abs/2412.15536v1)|null|
 |**2024-12-20**|**DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game**|Xiaobing Chen et.al.|[2412.15492v1](http://arxiv.org/abs/2412.15492v1)|null|
@@ -3345,7 +3345,7 @@ layout: default
 |**2023-09-06**|**Federated Learning Over Images: Vertical Decompositions and Pre-Trained Backbones Are Difficult to Beat**|Erdong Hu et.al.|[2309.03237v1](http://arxiv.org/abs/2309.03237v1)|null|
 |**2023-09-06**|**EdgeFL: A Lightweight Decentralized Federated Learning Framework**|Hongyi Zhang et.al.|[2309.02936v1](http://arxiv.org/abs/2309.02936v1)|null|
 |**2023-09-06**|**Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**|Omar Alhussein et.al.|[2309.02787v1](http://arxiv.org/abs/2309.02787v1)|null|
-|**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|null|
+|**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|**[link](https://github.com/zywang0701/drl-simus)**|
 |**2023-09-05**|**Personalized Federated Deep Reinforcement Learning-based Trajectory Optimization for Multi-UAV Assisted Edge Computing**|Zhengrong Song et.al.|[2309.02193v1](http://arxiv.org/abs/2309.02193v1)|null|
 |**2023-09-05**|**Bias Propagation in Federated Learning**|Hongyan Chang et.al.|[2309.02160v1](http://arxiv.org/abs/2309.02160v1)|**[link](https://github.com/privacytrustlab/bias_in_FL)**|
 |**2023-09-04**|**Secure and Efficient Federated Learning in LEO Constellations using Decentralized Key Generation and On-Orbit Model Aggregation**|Mohamed Elmahallawy et.al.|[2309.01828v1](http://arxiv.org/abs/2309.01828v1)|null|
