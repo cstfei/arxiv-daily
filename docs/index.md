@@ -1247,7 +1247,7 @@ layout: default
 |**2025-01-06**|**Over-the-Air Fair Federated Learning via Multi-Objective Optimization**|Shayan Mohajer Hamidi et.al.|[2501.03392v1](http://arxiv.org/abs/2501.03392v1)|**[link](https://github.com/shayanmohajer/ota-ffl)**|
 |**2025-01-06**|**FTA-FTL: A Fine-Tuned Aggregation Federated Transfer Learning Scheme for Lithology Microscopic Image Classification**|Keyvan RahimiZadeh et.al.|[2501.03349v1](http://arxiv.org/abs/2501.03349v1)|**[link](https://github.com/ahmadtaheri2021/lithology-microscopic-images-mini-dataset)**|
 |**2025-01-06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|Manh V. Nguyen et.al.|[2501.03306v1](http://arxiv.org/abs/2501.03306v1)|null|
-|**2025-01-06**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301v1](http://arxiv.org/abs/2501.03301v1)|null|
+|**2025-01-06**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301v1](http://arxiv.org/abs/2501.03301v1)|**[link](https://github.com/zhongjian-zhang/spattack)**|
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223v1](http://arxiv.org/abs/2501.03223v1)|null|
 |**2025-01-06**|**From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning**|Chao Feng et.al.|[2501.03119v1](http://arxiv.org/abs/2501.03119v1)|null|
 |**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981v1](http://arxiv.org/abs/2501.02981v1)|null|
@@ -1267,7 +1267,7 @@ layout: default
 |**2025-01-02**|**LEO-Split: A Semi-Supervised Split Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2501.01293v1](http://arxiv.org/abs/2501.01293v1)|null|
 |**2025-01-02**|**Communication-and-Computation Efficient Split Federated Learning: Gradient Aggregation and Resource Management**|Yipeng Liang et.al.|[2501.01078v1](http://arxiv.org/abs/2501.01078v1)|null|
 |**2025-01-02**|**FAPL-DM-BC: A Secure and Scalable FL Framework with Adaptive Privacy and Dynamic Masking, Blockchain, and XAI for the IoVs**|Sathwik Narkedimilli et.al.|[2501.01063v1](http://arxiv.org/abs/2501.01063v1)|null|
-|**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732v1](http://arxiv.org/abs/2501.00732v1)|null|
+|**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732v1](http://arxiv.org/abs/2501.00732v1)|**[link](https://github.com/chuanting/fedgcc)**|
 |**2025-01-01**|**Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with Self-Rectified Knowledge Agglomeration**|Zhiyuan Wu et.al.|[2501.00693v1](http://arxiv.org/abs/2501.00693v1)|null|
 |**2024-12-31**|**Federated Dropout: Convergence Analysis and Resource Allocation**|Sijing Xie et.al.|[2501.00379v1](http://arxiv.org/abs/2501.00379v1)|null|
 |**2024-12-31**|**Federated Deep Subspace Clustering**|Yupei Zhang et.al.|[2501.00230v1](http://arxiv.org/abs/2501.00230v1)|null|
@@ -2230,7 +2230,7 @@ layout: default
 |**2024-05-28**|**An Innovative Networks in Federated Learning**|Zavareh Bozorgasl et.al.|[2405.17836v1](http://arxiv.org/abs/2405.17836v1)|null|
 |**2024-05-28**|**Post-Fair Federated Learning: Achieving Group and Community Fairness in Federated Learning via Post-processing**|Yuying Duan et.al.|[2405.17782v1](http://arxiv.org/abs/2405.17782v1)|null|
 |**2024-05-28**|**Wireless Federated Learning over Resource-Constrained Networks: Digital versus Analog Transmissions**|Jiacheng Yao et.al.|[2405.17759v1](http://arxiv.org/abs/2405.17759v1)|null|
-|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|null|
+|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|**[link](https://github.com/mnabihali/ASR-FL)**|
 |**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267v1](http://arxiv.org/abs/2405.17267v1)|null|
 |**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042v1](http://arxiv.org/abs/2405.17042v1)|null|
 |**2024-05-27**|**Waveforms for Computing Over the Air**|Ana Pérez-Neira et.al.|[2405.17007v1](http://arxiv.org/abs/2405.17007v1)|null|
