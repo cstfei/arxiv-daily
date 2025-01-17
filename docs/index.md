@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
+|**2025-01-16**|**Connectivity for AI enabled cities -- A field survey based study of emerging economies**|Dibakar Das et.al.|[2501.09479v1](http://arxiv.org/abs/2501.09479v1)|null|
+|**2025-01-16**|**Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning**|Seohyun Lee et.al.|[2501.09320v1](http://arxiv.org/abs/2501.09320v1)|null|
+|**2025-01-15**|**Towards Federated Multi-Armed Bandit Learning for Content Dissemination using Swarm of UAVs**|Amit Kumar Bhuyan et.al.|[2501.09146v1](http://arxiv.org/abs/2501.09146v1)|null|
 |**2025-01-15**|**Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes**|Huy Q. Le et.al.|[2501.08521v1](http://arxiv.org/abs/2501.08521v1)|null|
 |**2025-01-14**|**Multiplayer Federated Learning: Reaching Equilibrium with Less Communication**|TaeHo Yoon et.al.|[2501.08263v1](http://arxiv.org/abs/2501.08263v1)|null|
 |**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044v1](http://arxiv.org/abs/2501.08044v1)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
