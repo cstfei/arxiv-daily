@@ -216,7 +216,7 @@
 |**2024-12-03**|**Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality**|Harish Srinivas et.al.|[2412.02340v1](http://arxiv.org/abs/2412.02340v1)|null|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|null|
 |**2024-12-03**|**Learn More by Using Less: Distributed Learning with Energy-Constrained Devices**|Roberto Pereira et.al.|[2412.02289v1](http://arxiv.org/abs/2412.02289v1)|null|
-|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161v1](http://arxiv.org/abs/2412.02161v1)|null|
+|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161v1](http://arxiv.org/abs/2412.02161v1)|**[link](https://github.com/S1mple-yyds/Fed_Epi_Classifier)**|
 |**2024-12-03**|**Privacy-Preserving Federated Learning via Homomorphic Adversarial Networks**|Wenhan Dong et.al.|[2412.01650v2](http://arxiv.org/abs/2412.01650v2)|null|
 |**2024-12-02**|**Review of Mathematical Optimization in Federated Learning**|Shusen Yang et.al.|[2412.01630v1](http://arxiv.org/abs/2412.01630v1)|null|
 |**2024-12-02**|**FedAH: Aggregated Head for Personalized Federated Learning**|Pengzhan Zhou et.al.|[2412.01295v1](http://arxiv.org/abs/2412.01295v1)|**[link](https://github.com/heyuepeng/fedah)**|
