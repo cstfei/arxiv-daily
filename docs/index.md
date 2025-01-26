@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1233,7 +1233,7 @@ layout: default
 |**2025-01-23**|**Rate-Distortion Region for Distributed Indirect Source Coding with Decoder Side Information**|Jiancheng Tang et.al.|[2501.13784v1](http://arxiv.org/abs/2501.13784v1)|null|
 |**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683v1](http://arxiv.org/abs/2501.13683v1)|null|
 |**2025-01-23**|**AirTOWN: A Privacy-Preserving Mobile App for Real-time Pollution-Aware POI Suggestion**|Giuseppe Fasano et.al.|[2501.13608v1](http://arxiv.org/abs/2501.13608v1)|null|
-|**2025-01-23**|**FedPref: Federated Learning Across Heterogeneous Multi-objective Preferences**|Maria Hartmann et.al.|[2501.13604v1](http://arxiv.org/abs/2501.13604v1)|null|
+|**2025-01-23**|**FedPref: Federated Learning Across Heterogeneous Multi-objective Preferences**|Maria Hartmann et.al.|[2501.13604v1](http://arxiv.org/abs/2501.13604v1)|**[link](https://gitlab.com/maria.hartmann/FedPref)**|
 |**2025-01-23**|**Communication-Efficient Stochastic Distributed Learning**|Xiaoxing Ren et.al.|[2501.13516v1](http://arxiv.org/abs/2501.13516v1)|null|
 |**2025-01-23**|**SplitLLM: Hierarchical Split Learning for Large Language Model over Wireless Network**|Songge Zhang et.al.|[2501.13318v1](http://arxiv.org/abs/2501.13318v1)|null|
 |**2025-01-22**|**Distributed Intrusion Detection in Dynamic Networks of UAVs using Few-Shot Federated Learning**|Ozlem Ceviz et.al.|[2501.13213v1](http://arxiv.org/abs/2501.13213v1)|null|
