@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416v1](http://arxiv.org/abs/2501.18416v1)|null|
+|**2025-01-30**|**Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**|Furkan Bagci et.al.|[2501.18298v1](http://arxiv.org/abs/2501.18298v1)|null|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174v1](http://arxiv.org/abs/2501.18174v1)|null|
+|**2025-01-29**|**Power-Efficient Over-the-Air Aggregation with Receive Beamforming for Federated Learning**|Faeze Moradi Kalarde et.al.|[2501.18058v1](http://arxiv.org/abs/2501.18058v1)|null|
 |**2025-01-29**|**Federated Learning With Individualized Privacy Through Client Sampling**|Lucas Lange et.al.|[2501.17634v1](http://arxiv.org/abs/2501.17634v1)|**[link](https://github.com/luckyos-code/flidp)**|
 |**2025-01-29**|**A Survey on Cluster-based Federated Learning**|Omar El-Rifai et.al.|[2501.17512v1](http://arxiv.org/abs/2501.17512v1)|null|
 |**2025-01-29**|**Poisoning Attacks and Defenses to Federated Unlearning**|Wenbin Wang et.al.|[2501.17396v1](http://arxiv.org/abs/2501.17396v1)|null|
