@@ -37,7 +37,7 @@
 |**2025-02-04**|**SMTFL: Secure Model Training to Untrusted Participants in Federated Learning**|Zhihui Zhao et.al.|[2502.02038v1](http://arxiv.org/abs/2502.02038v1)|null|
 |**2025-02-04**|**Improving Wireless Federated Learning via Joint Downlink-Uplink Beamforming over Analog Transmission**|Chong Zhang et.al.|[2502.02034v1](http://arxiv.org/abs/2502.02034v1)|null|
 |**2025-02-03**|**A Privacy-Preserving Domain Adversarial Federated learning for multi-site brain functional connectivity analysis**|Yipu Zhang et.al.|[2502.01885v1](http://arxiv.org/abs/2502.01885v1)|null|
-|**2025-02-03**|**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2502.01608v1](http://arxiv.org/abs/2502.01608v1)|null|
+|**2025-02-03**|**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2502.01608v1](http://arxiv.org/abs/2502.01608v1)|**[link](https://github.com/spalabucr/beyond-the-crawl)**|
 |**2025-02-03**|**Federated Detection of Open Charge Point Protocol 1.6 Cyberattacks**|Christos Dalamagkas et.al.|[2502.01569v1](http://arxiv.org/abs/2502.01569v1)|null|
 |**2025-02-03**|**FedGES: A Federated Learning Approach for BN Structure Learning**|Pablo Torrijos et.al.|[2502.01538v1](http://arxiv.org/abs/2502.01538v1)|null|
 |**2025-02-03**|**Federated Learning with Discriminative Naive Bayes Classifier**|Pablo Torrijos et.al.|[2502.01532v1](http://arxiv.org/abs/2502.01532v1)|null|
@@ -348,7 +348,7 @@
 |**2024-11-21**|**Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel**|Jaeyoung Song et.al.|[2411.13861v1](http://arxiv.org/abs/2411.13861v1)|null|
 |**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394v1](http://arxiv.org/abs/2411.13394v1)|**[link](https://github.com/sixuli/cb2o)**|
 |**2024-11-20**|**Incremental Label Distribution Learning with Scalable Graph Convolutional Networks**|Ziqi Jia et.al.|[2411.13097v1](http://arxiv.org/abs/2411.13097v1)|null|
-|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|null|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|**[link](https://github.com/chenxing1999/shaver)**|
 |**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000v1](http://arxiv.org/abs/2411.13000v1)|null|
 |**2024-11-19**|**Learning multivariate Gaussians with imperfect advice**|Arnab Bhattacharyya et.al.|[2411.12700v1](http://arxiv.org/abs/2411.12700v1)|null|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|null|
