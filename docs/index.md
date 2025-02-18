@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863v1](http://arxiv.org/abs/2502.11863v1)|null|
+|**2025-02-17**|**Double Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy**|Rustem Islamov et.al.|[2502.11682v1](http://arxiv.org/abs/2502.11682v1)|null|
+|**2025-02-17**|**BagChain: A Dual-functional Blockchain Leveraging Bagging-based Distributed Learning**|Zixiang Cui et.al.|[2502.11464v1](http://arxiv.org/abs/2502.11464v1)|null|
+|**2025-02-14**|**Federated Learning-Driven Cybersecurity Framework for IoT Networks with Privacy-Preserving and Real-Time Threat Detection Capabilities**|Milad Rahmati et.al.|[2502.10599v1](http://arxiv.org/abs/2502.10599v1)|null|
 |**2025-02-14**|**Efficient Zero-Order Federated Finetuning of Language Models for Resource-Constrained Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.10239v1](http://arxiv.org/abs/2502.10239v1)|null|
 |**2025-02-14**|**SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[2502.10208v1](http://arxiv.org/abs/2502.10208v1)|null|
 |**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978v1](http://arxiv.org/abs/2502.09978v1)|null|
