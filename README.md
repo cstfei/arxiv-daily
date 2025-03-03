@@ -18,10 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171v1](http://arxiv.org/abs/2502.21171v1)|null|
+|**2025-02-28**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al.|[2502.21012v1](http://arxiv.org/abs/2502.21012v1)|null|
+|**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882v1](http://arxiv.org/abs/2502.20882v1)|null|
+|**2025-02-28**|**Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter**|Zhengyi Zhong et.al.|[2502.20709v1](http://arxiv.org/abs/2502.20709v1)|null|
+|**2025-02-28**|**FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients**|Leming Shen et.al.|[2502.20639v1](http://arxiv.org/abs/2502.20639v1)|**[link](https://github.com/lemingshen/FedConv)**|
+|**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565v1](http://arxiv.org/abs/2502.20565v1)|null|
 |**2025-02-27**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242v1](http://arxiv.org/abs/2502.20242v1)|null|
 |**2025-02-27**|**Can Textual Gradient Work in Federated Learning?**|Minghui Chen et.al.|[2502.19980v1](http://arxiv.org/abs/2502.19980v1)|null|
 |**2025-02-27**|**Revisit the Stability of Vanilla Federated Learning Under Diverse Conditions**|Youngjoon Lee et.al.|[2502.19849v1](http://arxiv.org/abs/2502.19849v1)|null|
-|**2025-02-27**|**Twofold Debiasing Enhances Fine-Grained Learning with Coarse Labels**|Xin-yang Zhao et.al.|[2502.19816v1](http://arxiv.org/abs/2502.19816v1)|null|
+|**2025-02-27**|**Twofold Debiasing Enhances Fine-Grained Learning with Coarse Labels**|Xin-yang Zhao et.al.|[2502.19816v1](http://arxiv.org/abs/2502.19816v1)|**[link](https://github.com/Faithzh/TFB)**|
 |**2025-02-27**|**Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data**|Pei-Yau Weng et.al.|[2502.19752v1](http://arxiv.org/abs/2502.19752v1)|null|
 |**2025-02-26**|**On the Byzantine Fault Tolerance of signSGD with Majority Vote**|Emanuele Mengoli et.al.|[2502.19170v1](http://arxiv.org/abs/2502.19170v1)|null|
 |**2025-02-26**|**FedCDC: A Collaborative Framework for Data Consumers in Federated Learning Market**|Zhuan Shi et.al.|[2502.19109v1](http://arxiv.org/abs/2502.19109v1)|null|
