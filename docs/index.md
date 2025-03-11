@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability**|Mukesh Sahani et.al.|[2503.07570v1](http://arxiv.org/abs/2503.07570v1)|null|
+|**2025-03-10**|**Efficient Distributed Learning over Decentralized Networks with Convoluted Support Vector Machine**|Canyi Chen et.al.|[2503.07563v1](http://arxiv.org/abs/2503.07563v1)|null|
+|**2025-03-10**|**Federated Multimodal Learning with Dual Adapters and Selective Pruning for Communication and Computational Efficiency**|Duy Phuong Nguyen et.al.|[2503.07552v1](http://arxiv.org/abs/2503.07552v1)|null|
+|**2025-03-10**|**From Centralized to Decentralized Federated Learning: Theoretical Insights, Privacy Preservation, and Robustness Challenges**|Qiongxiu Li et.al.|[2503.07505v1](http://arxiv.org/abs/2503.07505v1)|null|
+|**2025-03-10**|**Federated Learning in NTNs: Design, Architecture and Challenges**|Amin Farajzadeh et.al.|[2503.07272v1](http://arxiv.org/abs/2503.07272v1)|null|
+|**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231v1](http://arxiv.org/abs/2503.07231v1)|null|
+|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v1](http://arxiv.org/abs/2503.07216v1)|null|
+|**2025-03-10**|**Efficient Integration of Distributed Learning Services in Next-Generation Wireless Networks**|Paul Zheng et.al.|[2503.07116v1](http://arxiv.org/abs/2503.07116v1)|null|
+|**2025-03-10**|**A Failure-Free and Efficient Discrete Laplace Distribution for Differential Privacy in MPC**|Ivan Tjuawinata et.al.|[2503.07048v1](http://arxiv.org/abs/2503.07048v1)|null|
+|**2025-03-10**|**CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model**|Shihao Hou et.al.|[2503.06993v1](http://arxiv.org/abs/2503.06993v1)|null|
 |**2025-03-07**|**NoT: Federated Unlearning via Weight Negation**|Yasser H. Khalil et.al.|[2503.05657v1](http://arxiv.org/abs/2503.05657v1)|null|
 |**2025-03-07**|**Practical Federated Learning without a Server**|Akash Dhasade et.al.|[2503.05509v1](http://arxiv.org/abs/2503.05509v1)|null|
 |**2025-03-07**|**Personalized Federated Learning via Learning Dynamic Graphs**|Ziran Zhou et.al.|[2503.05474v1](http://arxiv.org/abs/2503.05474v1)|null|
