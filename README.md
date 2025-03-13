@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325v1](http://arxiv.org/abs/2503.08325v1)|null|
 |**2025-03-11**|**Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices**|Tao Shen et.al.|[2503.08223v1](http://arxiv.org/abs/2503.08223v1)|null|
 |**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141v1](http://arxiv.org/abs/2503.08141v1)|null|
-|**2025-03-11**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085v1](http://arxiv.org/abs/2503.08085v1)|null|
+|**2025-03-12**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085v2](http://arxiv.org/abs/2503.08085v2)|null|
 |**2025-03-11**|**Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection**|Jiahao Xu et.al.|[2503.07978v1](http://arxiv.org/abs/2503.07978v1)|null|
 |**2025-03-10**|**Right Reward Right Time for Federated Learning**|Thanh Linh Nguyen et.al.|[2503.07869v1](http://arxiv.org/abs/2503.07869v1)|null|
 |**2025-03-10**|**Sublinear Algorithms for Wasserstein and Total Variation Distances: Applications to Fairness and Privacy Auditing**|Debabrota Basu et.al.|[2503.07775v1](http://arxiv.org/abs/2503.07775v1)|null|
@@ -3236,7 +3236,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## MMS
 
@@ -3257,7 +3257,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

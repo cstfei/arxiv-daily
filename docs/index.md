@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1233,7 +1233,7 @@ layout: default
 |**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325v1](http://arxiv.org/abs/2503.08325v1)|null|
 |**2025-03-11**|**Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices**|Tao Shen et.al.|[2503.08223v1](http://arxiv.org/abs/2503.08223v1)|null|
 |**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141v1](http://arxiv.org/abs/2503.08141v1)|null|
-|**2025-03-11**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085v1](http://arxiv.org/abs/2503.08085v1)|null|
+|**2025-03-12**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085v2](http://arxiv.org/abs/2503.08085v2)|null|
 |**2025-03-11**|**Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection**|Jiahao Xu et.al.|[2503.07978v1](http://arxiv.org/abs/2503.07978v1)|null|
 |**2025-03-10**|**Right Reward Right Time for Federated Learning**|Thanh Linh Nguyen et.al.|[2503.07869v1](http://arxiv.org/abs/2503.07869v1)|null|
 |**2025-03-10**|**Sublinear Algorithms for Wasserstein and Total Variation Distances: Applications to Fairness and Privacy Auditing**|Debabrota Basu et.al.|[2503.07775v1](http://arxiv.org/abs/2503.07775v1)|null|
