@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Exploring the Vulnerabilities of Federated Learning: A Deep Dive into Gradient Inversion Attacks**|Pengxin Guo et.al.|[2503.11514v1](http://arxiv.org/abs/2503.11514v1)|null|
+|**2025-03-14**|**Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection**|Long Tan Le et.al.|[2503.11255v1](http://arxiv.org/abs/2503.11255v1)|null|
+|**2025-03-14**|**Enabling Weak Client Participation via On-device Knowledge Distillation in Heterogenous Federated Learning**|Jihyun Lim et.al.|[2503.11151v1](http://arxiv.org/abs/2503.11151v1)|null|
+|**2025-03-14**|**Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**|Jisoo Kim et.al.|[2503.11146v1](http://arxiv.org/abs/2503.11146v1)|null|
+|**2025-03-14**|**FedOSAA: Improving Federated Learning with One-Step Anderson Acceleration**|Xue Feng et.al.|[2503.10961v1](http://arxiv.org/abs/2503.10961v1)|null|
+|**2025-03-13**|**Byzantine-Resilient Federated Learning via Distributed Optimization**|Yufei Xia et.al.|[2503.10792v1](http://arxiv.org/abs/2503.10792v1)|null|
 |**2025-03-13**|**FedPCA: Noise-Robust Fair Federated Learning via Performance-Capacity Analysis**|Nannan Wu et.al.|[2503.10567v1](http://arxiv.org/abs/2503.10567v1)|null|
 |**2025-03-14**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412v2](http://arxiv.org/abs/2503.10412v2)|null|
 |**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262v1](http://arxiv.org/abs/2503.10262v1)|null|
