@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|null|
+|**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004v1](http://arxiv.org/abs/2504.06004v1)|null|
+|**2025-04-08**|**Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients**|Alessio Mora et.al.|[2504.05822v1](http://arxiv.org/abs/2504.05822v1)|null|
+|**2025-04-08**|**FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels**|Seunghun Yu et.al.|[2504.05615v1](http://arxiv.org/abs/2504.05615v1)|null|
+|**2025-04-07**|**Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control**|Yongjie Fu et.al.|[2504.05553v1](http://arxiv.org/abs/2504.05553v1)|null|
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|null|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238v1](http://arxiv.org/abs/2504.05238v1)|null|
 |**2025-04-07**|**DDPM Score Matching and Distribution Learning**|Sinho Chewi et.al.|[2504.05161v1](http://arxiv.org/abs/2504.05161v1)|null|
@@ -4582,6 +4587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083v1](http://arxiv.org/abs/2504.06083v1)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610v1](http://arxiv.org/abs/2502.02610v1)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487v1](http://arxiv.org/abs/2412.05487v1)|null|
 |**2023-07-10**|**Compatibility and Timing Attacks for JPEG Steganalysis**|Etienne Levecque et.al.|[2306.01317v2](http://arxiv.org/abs/2306.01317v2)|null|
