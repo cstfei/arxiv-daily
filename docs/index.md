@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1232,7 +1232,7 @@ layout: default
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238v1](http://arxiv.org/abs/2504.05238v1)|null|
 |**2025-04-07**|**DDPM Score Matching and Distribution Learning**|Sinho Chewi et.al.|[2504.05161v1](http://arxiv.org/abs/2504.05161v1)|null|
 |**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|null|
-|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v1](http://arxiv.org/abs/2504.05138v1)|null|
+|**2025-04-08**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v2](http://arxiv.org/abs/2504.05138v2)|null|
 |**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107v1](http://arxiv.org/abs/2504.05107v1)|null|
 |**2025-04-07**|**FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**|Ming-Lun Lee et.al.|[2504.04867v1](http://arxiv.org/abs/2504.04867v1)|null|
 |**2025-04-07**|**Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation**|Robert J. Hayek et.al.|[2504.04678v1](http://arxiv.org/abs/2504.04678v1)|**[link](https://github.com/Net-X-Research-Group/federated_learning_testbed)**|
