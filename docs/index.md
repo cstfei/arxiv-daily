@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Boosting multi-demographic federated learning for chest x-ray analysis using general-purpose self-supervised representations**|Mahshad Lotfinia et.al.|[2504.08584v1](http://arxiv.org/abs/2504.08584v1)|null|
+|**2025-04-11**|**Explainability and Continual Learning meet Federated Learning at the Network Edge**|Thomas Tsouparopoulos et.al.|[2504.08536v1](http://arxiv.org/abs/2504.08536v1)|null|
+|**2025-04-11**|**An Adaptive Clustering Scheme for Client Selections in Communication-Efficient Federated Learning**|Yan-Ann Chen et.al.|[2504.08356v1](http://arxiv.org/abs/2504.08356v1)|null|
+|**2025-04-11**|**Deep Distributional Learning with Non-crossing Quantile Network**|Guohao Shen et.al.|[2504.08215v1](http://arxiv.org/abs/2504.08215v1)|null|
+|**2025-04-11**|**The More is not the Merrier: Investigating the Effect of Client Size on Federated Learning**|Eleanor Wallach et.al.|[2504.08198v1](http://arxiv.org/abs/2504.08198v1)|null|
 |**2025-04-10**|**Traversal Learning Coordination For Lossless And Efficient Distributed Learning**|Erdenebileg Batbaatar et.al.|[2504.07471v1](http://arxiv.org/abs/2504.07471v1)|null|
 |**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768v1](http://arxiv.org/abs/2504.06768v1)|null|
 |**2025-04-08**|**Federated Neural Architecture Search with Model-Agnostic Meta Learning**|Xinyuan Huang et.al.|[2504.06457v1](http://arxiv.org/abs/2504.06457v1)|null|
