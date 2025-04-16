@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Diversity-Driven Learning: Tackling Spurious Correlations and Data Heterogeneity in Federated Models**|Gergely D. Németh et.al.|[2504.11216v1](http://arxiv.org/abs/2504.11216v1)|null|
+|**2025-04-15**|**FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption**|Yang Li et.al.|[2504.11088v1](http://arxiv.org/abs/2504.11088v1)|null|
+|**2025-04-15**|**ICAFS: Inter-Client-Aware Feature Selection for Vertical Federated Learning**|Ruochen Jin et.al.|[2504.10851v1](http://arxiv.org/abs/2504.10851v1)|null|
+|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817v1](http://arxiv.org/abs/2504.10817v1)|null|
+|**2025-04-15**|**Generative and Explainable AI for High-Dimensional Channel Estimation**|Nghia Thinh Nguyen et.al.|[2504.10775v1](http://arxiv.org/abs/2504.10775v1)|null|
+|**2025-04-14**|**Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication**|Soad Almabdy et.al.|[2504.10698v1](http://arxiv.org/abs/2504.10698v1)|null|
+|**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556v1](http://arxiv.org/abs/2504.10556v1)|null|
 |**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456v1](http://arxiv.org/abs/2504.10456v1)|null|
 |**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403v1](http://arxiv.org/abs/2504.10403v1)|null|
 |**2025-04-14**|**Undermining Federated Learning Accuracy in EdgeIoT via Variational Graph Auto-Encoders**|Kai Li et.al.|[2504.10067v1](http://arxiv.org/abs/2504.10067v1)|null|
