@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090v1](http://arxiv.org/abs/2504.15090v1)|null|
+|**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835v1](http://arxiv.org/abs/2504.14835v1)|null|
+|**2025-04-20**|**Learning Critically: Selective Self Distillation in Federated Learning on Non-IID Data**|Yuting He et.al.|[2504.14694v1](http://arxiv.org/abs/2504.14694v1)|null|
+|**2025-04-20**|**Efficient Federated Split Learning for Large Language Models over Communication Networks**|Kai Zhao et.al.|[2504.14667v1](http://arxiv.org/abs/2504.14667v1)|null|
+|**2025-04-20**|**GENE-FL: Gene-Driven Parameter-Efficient Dynamic Federated Learning**|Shunxin Guo et.al.|[2504.14628v1](http://arxiv.org/abs/2504.14628v1)|null|
+|**2025-04-19**|**FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning**|Zekai Chen et.al.|[2504.14188v1](http://arxiv.org/abs/2504.14188v1)|null|
+|**2025-04-19**|**PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models**|Nusrat Jahan Prottasha et.al.|[2504.14117v1](http://arxiv.org/abs/2504.14117v1)|null|
 |**2025-04-18**|**SFL-LEO: Asynchronous Split-Federated Learning Design for LEO Satellite-Ground Network Framework**|Jiasheng Wu et.al.|[2504.13479v1](http://arxiv.org/abs/2504.13479v1)|null|
 |**2025-04-18**|**Stratify: Rethinking Federated Learning for Non-IID Data through Balanced Sampling**|Hui Yeok Wong et.al.|[2504.13462v1](http://arxiv.org/abs/2504.13462v1)|null|
 |**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365v1](http://arxiv.org/abs/2504.13365v1)|null|
