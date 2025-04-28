@@ -1987,7 +1987,7 @@ layout: default
 |**2024-11-06**|**Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification**|Ying Zhang et.al.|[2411.03636v1](http://arxiv.org/abs/2411.03636v1)|null|
 |**2024-11-06**|**Towards Personalized Federated Learning via Comprehensive Knowledge Distillation**|Pengju Wang et.al.|[2411.03569v1](http://arxiv.org/abs/2411.03569v1)|null|
 |**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231v1](http://arxiv.org/abs/2411.03231v1)|null|
-|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019v1](http://arxiv.org/abs/2411.03019v1)|null|
+|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019v1](http://arxiv.org/abs/2411.03019v1)|**[link](https://github.com/Koukyosyumei/AIJack)**|
 |**2024-11-05**|**Rozproszone Wykrywanie Zajętości Widma Oparte na Uczeniu Federacyjnym**|Łukasz Kułacz et.al.|[2411.03017v1](http://arxiv.org/abs/2411.03017v1)|null|
 |**2024-11-05**|**Photon: Federated LLM Pre-Training**|Lorenzo Sani et.al.|[2411.02908v1](http://arxiv.org/abs/2411.02908v1)|null|
 |**2024-11-05**|**Distributed Graph Neural Network Design for Sum Ergodic Spectral Efficiency Maximization in Cell-Free Massive MIMO**|Nguyen Xuan Tung et.al.|[2411.02900v1](http://arxiv.org/abs/2411.02900v1)|null|
@@ -2826,7 +2826,7 @@ layout: default
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494v1](http://arxiv.org/abs/2405.01494v1)|null|
 |**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189v1](http://arxiv.org/abs/2405.01189v1)|null|
 |**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144v1](http://arxiv.org/abs/2405.01144v1)|null|
-|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142v1](http://arxiv.org/abs/2405.01142v1)|null|
+|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142v1](http://arxiv.org/abs/2405.01142v1)|**[link](https://github.com/liyipeng00/SFL)**|
 |**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108v1](http://arxiv.org/abs/2405.01108v1)|**[link](https://github.com/TixXx1337/Federated-Learning-with-Heterogeneous-Data-Handling-for-Robust-Vehicular-Perception)**|
 |**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[2405.01073v1](http://arxiv.org/abs/2405.01073v1)|null|
 |**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965v1](http://arxiv.org/abs/2405.00965v1)|null|
