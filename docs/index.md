@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539v1](http://arxiv.org/abs/2505.03539v1)|null|
+|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533v1](http://arxiv.org/abs/2505.03533v1)|null|
+|**2025-05-05**|**Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions**|Imane Cheikh et.al.|[2505.03036v1](http://arxiv.org/abs/2505.03036v1)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795v1](http://arxiv.org/abs/2505.02795v1)|null|
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540v1](http://arxiv.org/abs/2505.02540v1)|null|
 |**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490v1](http://arxiv.org/abs/2505.02490v1)|null|
