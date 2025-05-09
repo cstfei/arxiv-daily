@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231v1](http://arxiv.org/abs/2505.05231v1)|null|
+|**2025-05-08**|**QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation**|Mengze Hong et.al.|[2505.05225v1](http://arxiv.org/abs/2505.05225v1)|null|
+|**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155v1](http://arxiv.org/abs/2505.05155v1)|null|
+|**2025-05-08**|**Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning**|Chuangtao Chen et.al.|[2505.05151v1](http://arxiv.org/abs/2505.05151v1)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130v1](http://arxiv.org/abs/2505.05130v1)|null|
+|**2025-05-08**|**Balancing Client Participation in Federated Learning Using AoI**|Alireza Javani et.al.|[2505.05099v1](http://arxiv.org/abs/2505.05099v1)|null|
+|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979v1](http://arxiv.org/abs/2505.04979v1)|null|
+|**2025-05-08**|**DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data Distributions**|Hongliang Zhang et.al.|[2505.04947v1](http://arxiv.org/abs/2505.04947v1)|null|
+|**2025-05-08**|**FedRE: Robust and Effective Federated Learning with Privacy Preference**|Tianzhe Xiao et.al.|[2505.04889v1](http://arxiv.org/abs/2505.04889v1)|null|
+|**2025-05-08**|**Federated Learning for Cyber Physical Systems: A Comprehensive Survey**|Minh K. Quan et.al.|[2505.04873v1](http://arxiv.org/abs/2505.04873v1)|null|
 |**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535v1](http://arxiv.org/abs/2505.04535v1)|null|
 |**2025-05-07**|**FedBWO: Enhancing Communication Efficiency in Federated Learning**|Vahideh Hayyolalam et.al.|[2505.04435v1](http://arxiv.org/abs/2505.04435v1)|null|
 |**2025-05-07**|**FRAIN to Train: A Fast-and-Reliable Solution for Decentralized Federated Learning**|Sanghyeon Park et.al.|[2505.04223v1](http://arxiv.org/abs/2505.04223v1)|null|
