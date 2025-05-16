@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295v1](http://arxiv.org/abs/2505.09295v1)|null|
+|**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295v1](http://arxiv.org/abs/2505.09295v1)|**[link](https://github.com/qimingwu/fedida)**|
 |**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287v1](http://arxiv.org/abs/2505.09287v1)|**[link](https://github.com/limu-research/2025-edm-fl)**|
 |**2025-05-14**|**Toward Malicious Clients Detection in Federated Learning**|Zhihao Dou et.al.|[2505.09110v1](http://arxiv.org/abs/2505.09110v1)|null|
 |**2025-05-13**|**Neural BRDF Importance Sampling by Reparameterization**|Liwen Wu et.al.|[2505.08998v1](http://arxiv.org/abs/2505.08998v1)|null|
@@ -3537,7 +3537,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250516>back to top</a>)</p>
 
 ## MMS
 
@@ -3560,7 +3560,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
