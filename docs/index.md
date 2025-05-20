@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1237,7 +1237,7 @@ layout: default
 |**2025-05-15**|**Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning**|Chibueze Peace Obioma et.al.|[2505.10297v1](http://arxiv.org/abs/2505.10297v1)|null|
 |**2025-05-15**|**Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning**|Francesco Diana et.al.|[2505.10264v1](http://arxiv.org/abs/2505.10264v1)|null|
 |**2025-05-15**|**Robust Federated Learning on Edge Devices with Domain Heterogeneity**|Huy Q. Le et.al.|[2505.10128v1](http://arxiv.org/abs/2505.10128v1)|null|
-|**2025-05-15**|**Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning**|Wujun Zhou et.al.|[2505.10125v1](http://arxiv.org/abs/2505.10125v1)|null|
+|**2025-05-18**|**Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning**|Wujun Zhou et.al.|[2505.10125v2](http://arxiv.org/abs/2505.10125v2)|null|
 |**2025-05-15**|**Sybil-based Virtual Data Poisoning Attacks in Federated Learning**|Changxun Zhu et.al.|[2505.09983v1](http://arxiv.org/abs/2505.09983v1)|null|
 |**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854v1](http://arxiv.org/abs/2505.09854v1)|null|
 |**2025-05-14**|**Robust Federated Learning with Confidence-Weighted Filtering and GAN-Based Completion under Noisy and Incomplete Data**|Alpaslan Gokcen et.al.|[2505.09733v1](http://arxiv.org/abs/2505.09733v1)|null|
