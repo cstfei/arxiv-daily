@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
+|**2025-05-21**|**Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions**|Hossein Zakerinia et.al.|[2505.15579v1](http://arxiv.org/abs/2505.15579v1)|null|
+|**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376v1](http://arxiv.org/abs/2505.15376v1)|null|
+|**2025-05-21**|**Distributionally Robust Federated Learning with Client Drift Minimization**|Mounssif Krouka et.al.|[2505.15371v1](http://arxiv.org/abs/2505.15371v1)|null|
+|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244v1](http://arxiv.org/abs/2505.15244v1)|null|
+|**2025-05-21**|**Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**|Nanxu Gong et.al.|[2505.15152v1](http://arxiv.org/abs/2505.15152v1)|null|
+|**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124v1](http://arxiv.org/abs/2505.15124v1)|null|
+|**2025-05-20**|**Efficient Privacy-Preserving Cross-Silo Federated Learning with Multi-Key Homomorphic Encryption**|Abdullah Al Omar et.al.|[2505.14797v1](http://arxiv.org/abs/2505.14797v1)|null|
 |**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507v1](http://arxiv.org/abs/2505.14507v1)|null|
 |**2025-05-20**|**Federated learning in low-resource settings: A chest imaging study in Africa -- Challenges and lessons learned**|Jorge Fabila et.al.|[2505.14217v1](http://arxiv.org/abs/2505.14217v1)|null|
 |**2025-05-20**|**Personalized Bayesian Federated Learning with Wasserstein Barycenter Aggregation**|Ting Wei et.al.|[2505.14161v1](http://arxiv.org/abs/2505.14161v1)|null|
