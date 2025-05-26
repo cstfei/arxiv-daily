@@ -32,8 +32,8 @@
 |**2025-05-21**|**Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions**|Hossein Zakerinia et.al.|[2505.15579v1](http://arxiv.org/abs/2505.15579v1)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376v1](http://arxiv.org/abs/2505.15376v1)|null|
 |**2025-05-21**|**Distributionally Robust Federated Learning with Client Drift Minimization**|Mounssif Krouka et.al.|[2505.15371v1](http://arxiv.org/abs/2505.15371v1)|null|
-|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244v1](http://arxiv.org/abs/2505.15244v1)|null|
-|**2025-05-21**|**Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**|Nanxu Gong et.al.|[2505.15152v1](http://arxiv.org/abs/2505.15152v1)|null|
+|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244v1](http://arxiv.org/abs/2505.15244v1)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
+|**2025-05-21**|**Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**|Nanxu Gong et.al.|[2505.15152v1](http://arxiv.org/abs/2505.15152v1)|**[link](https://github.com/NanxuGong/DIFFT)**|
 |**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124v1](http://arxiv.org/abs/2505.15124v1)|null|
 |**2025-05-20**|**Efficient Privacy-Preserving Cross-Silo Federated Learning with Multi-Key Homomorphic Encryption**|Abdullah Al Omar et.al.|[2505.14797v1](http://arxiv.org/abs/2505.14797v1)|null|
 |**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507v1](http://arxiv.org/abs/2505.14507v1)|null|
@@ -50,8 +50,8 @@
 |**2025-05-19**|**FLTG: Byzantine-Robust Federated Learning via Angle-Based Defense and Non-IID-Aware Weighting**|Yanhua Wen et.al.|[2505.12851v1](http://arxiv.org/abs/2505.12851v1)|null|
 |**2025-05-19**|**FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA**|Seanie Lee et.al.|[2505.12805v1](http://arxiv.org/abs/2505.12805v1)|null|
 |**2025-05-18**|**$γ$ -FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning**|Rongwei Lu et.al.|[2505.12479v1](http://arxiv.org/abs/2505.12479v1)|null|
-|**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453v1](http://arxiv.org/abs/2505.12453v1)|null|
-|**2025-05-17**|**FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients**|Jianyi Zhang et.al.|[2505.12019v1](http://arxiv.org/abs/2505.12019v1)|null|
+|**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453v1](http://arxiv.org/abs/2505.12453v1)|**[link](https://github.com/nusioraprivacy/secemb)**|
+|**2025-05-17**|**FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients**|Jianyi Zhang et.al.|[2505.12019v1](http://arxiv.org/abs/2505.12019v1)|**[link](https://github.com/besticsp/fl-plas)**|
 |**2025-05-17**|**Incentivize Contribution and Learn Parameters Too: Federated Learning with Strategic Data Owners**|Drashthi Doshi et.al.|[2505.12010v1](http://arxiv.org/abs/2505.12010v1)|null|
 |**2025-05-17**|**FedHQ: Hybrid Runtime Quantization for Federated Learning**|Zihao Zheng et.al.|[2505.11982v1](http://arxiv.org/abs/2505.11982v1)|null|
 |**2025-05-16**|**Heterogeneity-Aware Client Sampling: A Unified Solution for Consistent Federated Learning**|Shudi Weng et.al.|[2505.11304v1](http://arxiv.org/abs/2505.11304v1)|null|
@@ -806,7 +806,7 @@
 |**2024-12-05**|**FedMetaMed: Federated Meta-Learning for Personalized Medication in Distributed Healthcare Systems**|Jiechao Gao et.al.|[2412.03851v1](http://arxiv.org/abs/2412.03851v1)|null|
 |**2024-12-04**|**Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning**|Debora Caldarola et.al.|[2412.03752v1](http://arxiv.org/abs/2412.03752v1)|**[link](https://github.com/pietrocagnasso/fedgloss)**|
 |**2024-12-04**|**Adaptive Personalized Over-the-Air Federated Learning with Reflecting Intelligent Surfaces**|Jiayu Mao et.al.|[2412.03514v1](http://arxiv.org/abs/2412.03514v1)|null|
-|**2024-12-04**|**Reactive Orchestration for Hierarchical Federated Learning Under a Communication Cost Budget**|Ivan Čilić et.al.|[2412.03385v1](http://arxiv.org/abs/2412.03385v1)|null|
+|**2024-12-04**|**Reactive Orchestration for Hierarchical Federated Learning Under a Communication Cost Budget**|Ivan Čilić et.al.|[2412.03385v1](http://arxiv.org/abs/2412.03385v1)|**[link](https://github.com/AIoTwin/fl-orchestrator)**|
 |**2024-12-03**|**Proximal Control of UAVs with Federated Learning for Human-Robot Collaborative Domains**|Lucas Nogueira Nobrega et.al.|[2412.02863v1](http://arxiv.org/abs/2412.02863v1)|null|
 |**2024-12-03**|**Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization**|Yury Demidovich et.al.|[2412.02781v1](http://arxiv.org/abs/2412.02781v1)|null|
 |**2024-12-03**|**Fractional Order Distributed Optimization**|Andrei Lixandru et.al.|[2412.02546v1](http://arxiv.org/abs/2412.02546v1)|null|
