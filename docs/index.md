@@ -1236,13 +1236,13 @@ layout: default
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699v1](http://arxiv.org/abs/2505.19699v1)|null|
 |**2025-05-26**|**Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity**|Aggrey Muhebwa et.al.|[2505.19605v1](http://arxiv.org/abs/2505.19605v1)|null|
 |**2025-05-26**|**Exploring the Possibility of TypiClust for Low-Budget Federated Active Learning**|Yuta Ono et.al.|[2505.19404v1](http://arxiv.org/abs/2505.19404v1)|null|
-|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-25**|**FedORA: Resource Allocation for Federated Learning in ORAN using Radio Intelligent Controllers**|Abdelaziz Salama et.al.|[2505.19211v1](http://arxiv.org/abs/2505.19211v1)|null|
 |**2025-05-25**|**Federated Learning: From Theory to Practice**|A. Jung et.al.|[2505.19183v1](http://arxiv.org/abs/2505.19183v1)|null|
 |**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961v1](http://arxiv.org/abs/2505.17961v1)|null|
 |**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226v1](http://arxiv.org/abs/2505.17226v1)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857v1](http://arxiv.org/abs/2505.16857v1)|null|
-|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|**[link](https://github.com/tajamul21/atr-bench)**|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|null|
 |**2025-05-22**|**WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning**|Zhaomin Wu et.al.|[2505.16635v1](http://arxiv.org/abs/2505.16635v1)|null|
 |**2025-05-22**|**From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling**|Yi Hu et.al.|[2505.16573v1](http://arxiv.org/abs/2505.16573v1)|null|
