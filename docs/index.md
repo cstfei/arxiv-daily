@@ -1405,7 +1405,7 @@ layout: default
 |**2025-04-22**|**Riemannian Neural Geodesic Interpolant**|Jiawen Wu et.al.|[2504.15736v1](http://arxiv.org/abs/2504.15736v1)|null|
 |**2025-04-22**|**Collaborative Split Federated Learning with Parallel Training and Aggregation**|Yiannis Papageorgiou et.al.|[2504.15724v1](http://arxiv.org/abs/2504.15724v1)|null|
 |**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717v1](http://arxiv.org/abs/2504.15717v1)|null|
-|**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674v1](http://arxiv.org/abs/2504.15674v1)|null|
+|**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674v1](http://arxiv.org/abs/2504.15674v1)|**[link](https://github.com/ybdai7/trojandam-backdoor-defense)**|
 |**2025-04-22**|**Federated Latent Factor Learning for Recovering Wireless Sensor Networks Signal with Privacy-Preserving**|Chengjun Yu et.al.|[2504.15525v1](http://arxiv.org/abs/2504.15525v1)|null|
 |**2025-04-21**|**FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching**|Qifan Yan et.al.|[2504.15366v1](http://arxiv.org/abs/2504.15366v1)|**[link](https://github.com/distributedml/fedfetch)**|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090v1](http://arxiv.org/abs/2504.15090v1)|null|
@@ -2187,7 +2187,7 @@ layout: default
 |**2024-10-28**|**Trustworthiness of Stochastic Gradient Descent in Distributed Learning**|Hongyang Li et.al.|[2410.21491v1](http://arxiv.org/abs/2410.21491v1)|null|
 |**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192v1](http://arxiv.org/abs/2410.21192v1)|null|
 |**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179v1](http://arxiv.org/abs/2410.21179v1)|null|
-|**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|null|
+|**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|**[link](https://github.com/jun-b0518/fedhydra)**|
 |**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072v1](http://arxiv.org/abs/2410.21072v1)|null|
 |**2024-10-28**|**Enhanced channel estimation for near-field IRS-aided multi-user MIMO system via deep residual network**|Yan Wang et.al.|[2410.20992v1](http://arxiv.org/abs/2410.20992v1)|null|
 |**2024-10-28**|**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2410.20659v1](http://arxiv.org/abs/2410.20659v1)|**[link](https://github.com/saptarshic27/fl)**|
