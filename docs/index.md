@@ -2545,7 +2545,7 @@ layout: default
 |**2024-08-06**|**Deep Clustering via Distribution Learning**|Guanfang Dong et.al.|[2408.03407v1](http://arxiv.org/abs/2408.03407v1)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220v1](http://arxiv.org/abs/2408.03220v1)|**[link](https://github.com/Leopold1423/fedmrn-mm24)**|
 |**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215v1](http://arxiv.org/abs/2408.03215v1)|**[link](https://github.com/Leopold1423/fedbat-icml24)**|
-|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|**[link](https://github.com/wzjialang/pfedsis)**|
 |**2024-08-06**|**Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**|Anwesha Mukherjee et.al.|[2408.02998v1](http://arxiv.org/abs/2408.02998v1)|null|
 |**2024-08-05**|**Mitigating Malicious Attacks in Federated Learning via Confidence-aware Defense**|Qilei Li et.al.|[2408.02813v1](http://arxiv.org/abs/2408.02813v1)|null|
 |**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501v1](http://arxiv.org/abs/2408.02501v1)|null|
