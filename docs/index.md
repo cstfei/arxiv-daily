@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4845,7 +4845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425v1](http://arxiv.org/abs/2505.21425v1)|null|
+|**2025-07-15**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425v2](http://arxiv.org/abs/2505.21425v2)|null|
 |**2025-05-25**|**ALRPHFS: Adversarially Learned Risk Patterns with Hierarchical Fast \& Slow Reasoning for Robust Agent Defense**|Shiyu Xiang et.al.|[2505.19260v1](http://arxiv.org/abs/2505.19260v1)|null|
 |**2025-06-13**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965v2](http://arxiv.org/abs/2504.20965v2)|**[link](https://github.com/zikuicai/aegisllm)**|
 |**2025-03-12**|**In-Context Defense in Computer Agents: An Empirical Study**|Pei Yang et.al.|[2503.09241v1](http://arxiv.org/abs/2503.09241v1)|null|
