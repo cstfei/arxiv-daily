@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2022-01-28**|**Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire**|Siddhartha Datta et.al.|[2201.12211v1](http://arxiv.org/abs/2201.12211v1)|null|
 |**2021-10-09**|**Widen The Backdoor To Let More Attackers In**|Siddhartha Datta et.al.|[2110.04571v1](http://arxiv.org/abs/2110.04571v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## Agent defense
 
@@ -43,7 +43,7 @@
 |**2024-01-20**|**Deception and Manipulation in Generative AI**|Christian Tarsney et.al.|[2401.11335v1](http://arxiv.org/abs/2401.11335v1)|null|
 |**2022-09-20**|**Low-Loss Subspace Compression for Clean Gains against Multi-Agent Backdoor Attacks**|Siddhartha Datta et.al.|[2203.03692v2](http://arxiv.org/abs/2203.03692v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## Agent backdoor
 
@@ -55,7 +55,7 @@
 |**2022-01-28**|**Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire**|Siddhartha Datta et.al.|[2201.12211v1](http://arxiv.org/abs/2201.12211v1)|null|
 |**2021-10-09**|**Widen The Backdoor To Let More Attackers In**|Siddhartha Datta et.al.|[2110.04571v1](http://arxiv.org/abs/2110.04571v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## NLP
 
@@ -67,7 +67,7 @@
 |**2021-10-06**|**BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models**|Kangjie Chen et.al.|[2110.02467v1](http://arxiv.org/abs/2110.02467v1)|null|
 |**2021-10-04**|**BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements**|Xiaoyi Chen et.al.|[2006.01043v2](http://arxiv.org/abs/2006.01043v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
